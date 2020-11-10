@@ -1,0 +1,6 @@
+C:\Users\mh36577\source\repos\Insomnia\Insomnia\bin\Debug\Insomnia.exe.config
+C:\Users\mh36577\source\repos\Insomnia\Insomnia\bin\Debug\Insomnia.exe
+C:\Users\mh36577\source\repos\Insomnia\Insomnia\bin\Debug\Insomnia.pdb
+C:\Users\mh36577\source\repos\Insomnia\Insomnia\obj\Debug\Insomnia.csprojAssemblyReference.cache
+C:\Users\mh36577\source\repos\Insomnia\Insomnia\obj\Debug\Insomnia.exe
+C:\Users\mh36577\source\repos\Insomnia\Insomnia\obj\Debug\Insomnia.pdb
